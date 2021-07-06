@@ -50,16 +50,18 @@ header{
     padding: 1%;
     background-color: rgba(11,13,23,255);
 }
+
 .header-item{
     width: 50%;
 }
+
 .header-item a{ 
     all: unset;
     text-decoration: none;
     color: white;
     cursor:pointer;
-    
 }
+
 #header-link{
     display: block;
     text-align: right;
