@@ -56,11 +56,12 @@ p{
 #about-me{
     background-image: url('images/shapes/7.png');
     background-repeat: no-repeat;
+    background-size: auto;
 }
 
 #femaleImage img{
     display: block;
-    width: 55.4%;
+    width: 50%;
     margin-left: 30%;
 }
 
