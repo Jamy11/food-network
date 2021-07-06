@@ -40,6 +40,30 @@ p{
 .orange-color{
     color: orange;
 }
+.white-color{
+    color: white;
+}
+
+
+/* 0 part css */
+header{
+    padding: 1%;
+    background-color: rgba(11,13,23,255);
+}
+.header-item{
+    width: 50%;
+}
+.header-item a{ 
+    all: unset;
+    text-decoration: none;
+    color: white;
+    
+}
+#header-link{
+    display: block;
+    text-align: right;
+    margin-top: 3%;
+}
 
 
 /* 1st part */
