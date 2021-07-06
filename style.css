@@ -20,7 +20,7 @@ a{
     font-size: 25px;
     color: white;
 
-    box-shadow: 0px 0px 5px  coral;
+    box-shadow: 0px 0px 10px  coral;
 }
 
 p{
@@ -57,6 +57,7 @@ header{
     all: unset;
     text-decoration: none;
     color: white;
+    cursor:pointer;
     
 }
 #header-link{
@@ -112,7 +113,7 @@ header{
     width: 25%;
     margin: 3%;
     padding: 2%;
-    box-shadow: 0px 0px 10px -5px ;
+    box-shadow: 0px 0px 15px -5px ;
     border-radius: 20px;
 }
 
@@ -134,7 +135,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 0px 10px -5px;
+    box-shadow: 0px 0px 15px -5px;
     margin: 5%;
     border-radius: 40px;
 }
