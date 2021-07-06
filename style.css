@@ -76,9 +76,6 @@ p{
 }
 
 /* 4th part css */
-.recipe-description{
-    display: flex;
-}
 
 .one-third{
     width: 25%;
@@ -100,6 +97,22 @@ p{
 
 #trird-recipe-item {
     margin-right: 8%;
+}
+
+/* 5th part css */
+.followers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 10px -5px;
+    margin: 5%;
+    border-radius: 40px;
+}
+.followers-item{
+    padding: 5%;
+}
+.followers-item h1{
+    color: black;
 }
 
 /* 6th part css */
