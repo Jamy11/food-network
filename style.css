@@ -61,8 +61,14 @@ p{
 
 #femaleImage img{
     display: block;
-    width: 50%;
+    width: 55%;
     margin-left: 30%;
+    margin-bottom: -6.9%;
+    max-width:100%;
+    /* margin-top: 25%; */
+    /* vertical-align: bottom; */
+    
+    
 }
 
 #about-me-text{
